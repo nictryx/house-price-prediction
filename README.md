@@ -1,4 +1,4 @@
-# Housing Prices Prediction using ML 
+# House Prices Prediction using ML 
 
 ## About The Project
 
