@@ -1,4 +1,4 @@
-# Ames Housing Price Prediction
+# Housing Prices Prediction using ML 
 
 ## About The Project
 
