@@ -36,7 +36,6 @@ This repository contains my own machine learning workflow, preprocessing approac
 * Jupyter Notebook
 * Google Colab
 * Git
-* GitHub
 
 ## How to Run
 
